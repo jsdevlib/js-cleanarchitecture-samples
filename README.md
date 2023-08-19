@@ -10,14 +10,6 @@ User management, bassically in its simplest form, is a method by which you can c
 
 User Management System is part of our suite (coming soon we will be releasing details), but not only establishes a user’s authorization to access secure resources, it also serves as a repository of identities and, if done efficiently, can be the source of all identities for an organization.
 
-
-### License:  [MIT](https://opensource.org/licenses/MIT)
-
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. 
-
-- Permissions: Commercial use, modification, distribution, private use.
-- Limitations: Liability, warranty.
-
 ### Technical Platform:
 - Backend: NodeJS, express, javascript, mongoose, mongoDb.
 - Frontend: React, material UI, javascript.
