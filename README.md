@@ -16,8 +16,6 @@ User Management System is part of our suite (coming soon we will be releasing de
 
 ### References
 
-- [React Starter Kit](https://github.com/Luiggi370z/react-starter-kit) by [Luiggi370z](https://github.com/Luiggi370z)
-
 - [The Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 
